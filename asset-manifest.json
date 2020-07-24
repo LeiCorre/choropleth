@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/choropleth/static/css/main.d3aaa3ee.chunk.css",
+    "main.js": "/choropleth/static/js/main.8d82d080.chunk.js",
+    "main.js.map": "/choropleth/static/js/main.8d82d080.chunk.js.map",
+    "runtime-main.js": "/choropleth/static/js/runtime-main.78ca5cba.js",
+    "runtime-main.js.map": "/choropleth/static/js/runtime-main.78ca5cba.js.map",
+    "static/js/2.95ce5360.chunk.js": "/choropleth/static/js/2.95ce5360.chunk.js",
+    "static/js/2.95ce5360.chunk.js.map": "/choropleth/static/js/2.95ce5360.chunk.js.map",
+    "index.html": "/choropleth/index.html",
+    "precache-manifest.9bc864f1047767abbb756db884817403.js": "/choropleth/precache-manifest.9bc864f1047767abbb756db884817403.js",
+    "service-worker.js": "/choropleth/service-worker.js",
+    "static/css/main.d3aaa3ee.chunk.css.map": "/choropleth/static/css/main.d3aaa3ee.chunk.css.map",
+    "static/js/2.95ce5360.chunk.js.LICENSE.txt": "/choropleth/static/js/2.95ce5360.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78ca5cba.js",
+    "static/js/2.95ce5360.chunk.js",
+    "static/css/main.d3aaa3ee.chunk.css",
+    "static/js/main.8d82d080.chunk.js"
+  ]
+}
